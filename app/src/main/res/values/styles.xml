@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.RedmiKLab" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

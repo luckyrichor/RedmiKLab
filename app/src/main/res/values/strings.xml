@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_title">%1$s\n移动网络夜间诊断</string>
+    <string name="diagnostic_window">诊断窗口：%1$s–%2$s\n状态快照：%3$d 分钟\n测速预算：%4$d MB</string>
+</resources>

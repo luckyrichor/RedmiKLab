@@ -1,0 +1,10 @@
+.worktrees/
+.gradle/
+build/
+**/.cxx/
+local.properties
+*.iml
+.idea/
+.superpowers/
+.DS_Store
+**/.DS_Store
